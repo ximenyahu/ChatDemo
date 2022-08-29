@@ -10,7 +10,21 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+        maven {
+            url "https://www.jitpack.io"
+        }
     }
 }
 rootProject.name = "ChatDemo"
 include ':app'
+include ':webrtc'
+include ':uikit'
+include ':pttclient'
+include ':emojilibrary'
+include ':client'
+include ':avenginekit'
+include ':mars-core-release'
+include ':imagepicker'

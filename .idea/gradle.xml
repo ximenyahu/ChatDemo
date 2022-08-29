@@ -11,6 +11,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/avenginekit" />
+            <option value="$PROJECT_DIR$/client" />
+            <option value="$PROJECT_DIR$/emojilibrary" />
+            <option value="$PROJECT_DIR$/imagepicker" />
+            <option value="$PROJECT_DIR$/mars-core-release" />
+            <option value="$PROJECT_DIR$/pttclient" />
+            <option value="$PROJECT_DIR$/uikit" />
+            <option value="$PROJECT_DIR$/webrtc" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -55,4 +55,8 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+
+    // 采用 library module 的方式依赖 uikit，如果需要采用 aar 方式集成，请仔细下面的注释
+    implementation project(':uikit')
 }
