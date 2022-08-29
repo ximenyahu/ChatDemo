@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_map_black_24"
+        android:title="@string/title_map" />
+
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/ic_message_black_24"
+        android:title="@string/title_message" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_contact"
+        android:icon="@drawable/ic_contact_black_24"
+        android:title="@string/title_contact" />
+
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/ic_mine_black_24"
+        android:title="@string/title_mine" />
+
+</menu>
